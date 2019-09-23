@@ -59,7 +59,7 @@ BF
 ```
 **ℕew lines** and *spaces* are ignored ‧ Ƒirst number is the
 *number of vtes*, followed by a list of ***vtx*** data: *(id, x, y)* ‧
-**Ꮪ***econd* number is the *number of edges*, followed by a list of
+se㉿ond number is the *number of edges*, followed by a list of
 *unordered* **vtx** pairs: (*id*<sub>0</sub>, *id*<sub>1</sub>) ‧ Ȁnd last
 two lines are the *control sequence* and *minimum* path
 *starting/ending **vtes*** .
@@ -73,7 +73,7 @@ challenging seems to be the fourth sub-problem, but here we use the same
 approach as in the first *yoi*
 [prob](https://github.com/neznajko/boxes), namely tree ***depth*** srch ‧
 ┳**his** time I've decided to make a *Screencast*, zo if you don't want
-to install additional modules, but are curious to Ꙭ the program, check out
+to install additional modules, but are curious to ```00``` the program, check out
 the *video* directory ‧ **ℋ**ere is the final frame ㋡
 
 ![cube](pix/cube.png)
