@@ -2,20 +2,20 @@
 Ⱳℌ☌ is your fa♡orite **T**eenage **M**utant **N**inja **T**urtle ¿ ℑ
 don't have one, *Michelangelo* is my favorite painter, but will pick
 *Raphael* ‧ ℗ick your one, bcoz in this exercise ve are going to draw ‧
-Ŵe are [*given*](https://ioinformatics.org/files/ioi1989problem5.pdf)
-a graph vith *n-vertices*, and each vertex (BepTékc, *vex*, ***vtx***) has
-***degree** 3*, that is each *vex* has *3* neighbors, or *3* **adjacent**
-vertices (*vtes*) ‧ 弋he problem is subdivided into *4* subsections :
+Ά graph vith *n-vertices* is
+[*given*](https://ioinformatics.org/files/ioi1989problem5.pdf),
+and each vertex (BepTékc, *vex*, ***vtx***) has ***degree** 3*,
+that is each *vex* has *3* neighbors, or *3* **adjacent** vertices
+(*vtes*) ‧ 弋he problem is subdivided into *4* subsections :
 
   1. *vtχ* coorz and graph edges are given, and ve hafe to scale them
   appropriately, if necessary, and draw ze graph .
-  2. Ħere a definition of *left* and **right** neighbors is given and a
-  **ctrlseq**, consisting of initial ***two*** vtes and the letters ℒ
-  and ℜ, from which we hafe to figure the corresponding *walk* .
+  2. Ħere a definition of *left* and **right** neighbors is presented and
+  a   **ctrlseq**, consisting of initial ***two*** vtes and the letters ℒ
+  and ℜ, from which the program has to figure the corresponding *walk* .
   3. つ*raw* ze walk .
-  4. ⌇**tarting** vtx (**A**), and ending vex (**B**) are given and
-  we have to find the minimum *AB-path*, draw it and print the
-  corresponding *ctrlseq* .
+  4. gìϔěń ⌇**tarting** and ending vtes, ve haaf to find the *minimum*
+  path, draw it, and print the corresponding *ctrlseq* .
 
 ### Ŧurtle Ninja
 **ℱ**or drawing the *Python* ***turtle*** module (requres *Tkinter*) is
@@ -73,7 +73,7 @@ most challenging seems to be the fourth sub-problem, but here we use the
 same approach as in the first *yoi*
 [prob](https://github.com/neznajko/boxes), namely tree ***depth*** srch ‧
 ┳**his** time I've decided to make a *Screencast*, zo if you don't want
-to install additional modules, but are curious to ```..``` the program,
+to install additional modules, but are curious to ʘʘ the program,
 check out the *video* directory ‧ **ℋ**ere is the final frame ㋡
 
 ![cube](pix/cube.png)
