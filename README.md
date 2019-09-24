@@ -13,9 +13,9 @@ vertices (*vtes*) ‧ 弋he problem is subdivided into *4* subsections :
   **ctrlseq**, consisting of initial ***two*** vtes and the letters ℒ
   and ℜ, from which we hafe to figure the corresponding *walk* .
   3. つ*raw* ze walk .
-  4. ⌇**tarting** vtx (**A**), and ending vex (**B**) are given and we have to
-  find the minimum *AB-path*, draw it and print the corresponding
-  *ctrlseq* .
+  4. ⌇**tarting** vtx (**A**), and ending vex (**B**) are given and
+  we have to find the minimum *AB-path*, draw it and print the
+  corresponding *ctrlseq* .
 
 ### Ŧurtle Ninja
 **ℱ**or drawing the *Python* ***turtle*** module (requres *Tkinter*) is
@@ -59,23 +59,23 @@ BF
 ```
 **ℕew lines** and *spaces* are ignored ‧ Ƒirst number is the
 *number of vtes*, followed by a list of ***vtx*** data: *(id, x, y)* ‧
-se㉿ond number is the *number of edges*, followed by a list of
+seℭond number is the *number of edges*, followed by a list of
 *unordered* **vtx** pairs: (*id*<sub>0</sub>, *id*<sub>1</sub>) ‧ Ȁnd last
 two lines are the *control sequence* and *minimum* path
 *starting/ending **vtes*** .
 
-![graph](pix/graph.png)
+### ```graph.py < infut/cube```
 
 **Ⴒ**asically there is nothing much to be discussed ⏩ for how to use
 the *ninja* module there is the online
-[*reference*](https://docs.python.org/3.3/library/turtle.html) ‧ ⿰⿱⿳ most
-challenging seems to be the fourth sub-problem, but here we use the same
-approach as in the first *yoi*
+[*reference*](https://docs.python.org/3.3/library/turtle.html) ‧ ⿰⿱⿳
+most challenging seems to be the fourth sub-problem, but here we use the
+same approach as in the first *yoi*
 [prob](https://github.com/neznajko/boxes), namely tree ***depth*** srch ‧
 ┳**his** time I've decided to make a *Screencast*, zo if you don't want
-to install additional modules, but are curious to ```00``` the program, check out
-the *video* directory ‧ **ℋ**ere is the final frame ㋡
+to install additional modules, but are curious to ```..``` the program,
+check out the *video* directory ‧ **ℋ**ere is the final frame ㋡
 
 ![cube](pix/cube.png)
 
-https://youtu.be/aBGAYLLkgHk
+https://youtu.be/I8pg2XoQTlA
