@@ -1,9 +1,10 @@
-## ℔oom (ha-ɥɐ-ha)
+![elf](pix/elf.png)
+### ℔oom (ha-ɥɐ-ha)
 Ⱳℌ☌ is your fa♡orite **T**eenage **M**utant **N**inja **T**urtle ¿ ℑ
 don't have one, *Michelangelo* is my favorite painter, but will pick
 *Raphael* ‧ ℗ick your one, bcoz in this exercise ve are going to draw ‧
-Ά graph vith *n-vertices* is
-[*given*](https://ioinformatics.org/files/ioi1989problem5.pdf),
+℣e haaf a graph vith *n-vertices*:
+[*clck*](https://ioinformatics.org/files/ioi1989problem5.pdf),
 and each vertex (BepTékc, *vex*, ***vtx***) has ***degree** 3*,
 that is each *vex* has *3* neighbors, or *3* **adjacent** vertices
 (*vtes*) ‧ 弋he problem is subdivided into *4* subsections :
